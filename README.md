@@ -1,7 +1,12 @@
 # Hi there, I'm Vishal 👋
 
 ## 💫 About Me:
-Experienced Full-Stack Developer with expertise in Node Js, MongoDB, MySQL, and other technologies. As a Team Leader and Product Manager, I possess strong project management and leadership skills, and I am confident in my ability to deliver high-quality software solutions that meet business requirements.
+Experienced Full-Stack Developer with expertise in Node.js, MongoDB, MySQL, and other technologies. I am confident in my ability to deliver high-quality software solutions that meet business requirements. My professional journey has equipped me with a deep understanding of back-end and front-end development, and I thrive in collaborative environments where I can contribute to the entire software development lifecycle.
+
+I have a strong foundation in building and maintaining scalable web applications, integrating third-party services, and optimizing performance. My passion for technology drives me to continuously learn and adopt new tools and practices, ensuring that I stay current with industry trends.
+
+In my free time, I enjoy contributing to open-source projects, exploring new programming languages, and participating in coding challenges. I believe in the power of technology to solve real-world problems and am always looking for opportunities to make a positive impact through my work.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-patel-326285213/)
